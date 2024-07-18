@@ -17,4 +17,4 @@
 
 ⚡ Fun fact: I love cooking and often experiment with recipes in my spare time.
 
-[Snake animation](https://github.com/patricksbrissa/patricksbrissa/blob/output/github-contribution-grid-snake.svg)
+
