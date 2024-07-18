@@ -1,16 +1,18 @@
-## Hi there 👋
+ 👋 Hello! Welcome to my Github profile.
+ My name is Patrick Sbrissa Batista and my nickname is Sbrissa!
+ 
+🔭 I’m currently working on: Maitre at Quintal do Espeto.
 
-<!--
-**patricksbrissa/PatrickSbrissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: Python, SQL, and Excel.
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on: Projects related to data analysis and automation using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with: Improving my skills in advanced SQL queries and data visualization.
+
+💬 Ask me about: Python programming and how to start learning data analysis.
+
+📫 How to reach me: You can contact me via email at patricksbrissa@gmail.com.
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love cooking and often experiment with recipes in my spare time.
